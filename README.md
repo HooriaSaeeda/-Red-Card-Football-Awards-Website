@@ -31,7 +31,7 @@ To create a web page that is both visually appealing and informative, highlighti
 ### Links
 
 - Solution URL: [https://github.com/HooriaSaeeda/-Red-Card-Football-Awards-Website.git](https://github.com/HooriaSaeeda/-Red-Card-Football-Awards-Website.git)
-- Live Site URL: [ https://hooriasaeeda.github.io/Keefer_Bootstrap_conversion/]( https://hooriasaeeda.github.io/Keefer_Bootstrap_conversion/)
+- Live Site URL: [https://hooriasaeeda.github.io/-Red-Card-Football-Awards-Website/](https://hooriasaeeda.github.io/-Red-Card-Football-Awards-Website/)
 
 ## My process
 
